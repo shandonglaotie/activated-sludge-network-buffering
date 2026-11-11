@@ -1,9 +1,0 @@
-{
-  "analysis_modules": [
-    "analysis/swi_cross_validation.py"
-  ],
-  "submitted_asset": "assets/submitted_figure.tiff",
-  "repeats": 200,
-  "folds": 5,
-  "reference_ecdf": "midrank in training reference data"
-}

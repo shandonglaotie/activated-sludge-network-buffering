@@ -1,4 +1,0 @@
-mechanism,damage_object,damage_type,metric_1,metric_2
-bridge,pressure-sensitive inter-community edges,edge,Direct inter-community support retention,Alternative inter-community path retention
-assortative,pressure-sensitive provincial/high-Zi internal-support nodes,node,Within-community direct support retention,Within-community module integrity retention
-core_periphery,pressure-sensitive high-core/high-degree backbone nodes,node,Core-to-periphery direct support retention,Largest connected component retention

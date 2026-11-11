@@ -1,7 +1,0 @@
-﻿dimension,source_column,cohort_median,cohort_IQR,PC1_loading_recomputed,PC2_loading_recomputed
-E,Edge_realization_rate_richness_adjusted_risk_z,0.0,0.9999999999999999,0.985927571162312,0.1213011318542379
-F,Largest_component_fraction_richness_adjusted_risk_z,0.0,0.9999999999999999,-0.13721335678344468,0.28199123511963253
-C,Connector_presence_fraction_richness_adjusted_risk_z,0.0,1.0,-0.011340344765453675,0.48828407816896524
-S,Abundance_weighted_intercommunity_support_richness_adjusted_risk_z,4.9439619065339e-17,1.0,-0.04322339158692816,0.5280082722559833
-V,Community_abundance_evenness_richness_adjusted_risk_z,0.0,1.0,-0.06703395218812044,0.4756803708337289
-D,Community_abundance_dominance_richness_adjusted_risk_z,0.0,1.0,-0.051272832929020296,0.4028412677047937

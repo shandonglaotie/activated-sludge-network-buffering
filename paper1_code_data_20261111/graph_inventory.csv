@@ -1,4 +1,0 @@
-graph,nodes,edges,negative_correlations,weight_representation,file
-sample_metric_graph,456,13894,19,absolute association weights,shared/analysis_inputs/triangle456.gexf
-positive_figure_graph,456,13875,0,positive association weights,shared/data/05_Network/05B_positive_weighted_edge_list_13875.csv
-archived_wsbm_graph,281,39340,28005,signed correlation weights,figures/supplementary/figure_s01/data/wsbm_input_signed_adjacency.mat

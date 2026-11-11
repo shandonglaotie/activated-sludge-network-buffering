@@ -1,6 +1,0 @@
-{
-  "analysis_modules": [
-    "analysis/roles_and_resampling.py"
-  ],
-  "submitted_asset": "assets/submitted_figure.tiff"
-}

@@ -1,6 +1,0 @@
-{
-  "analysis_modules": [
-    "analysis/high_load_fingerprints.py"
-  ],
-  "submitted_asset": "assets/submitted_figure.tiff"
-}

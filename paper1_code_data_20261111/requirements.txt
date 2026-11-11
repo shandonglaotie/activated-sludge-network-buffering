@@ -1,8 +1,0 @@
-numpy==2.3.5
-pandas==2.3.3
-scipy==1.17.1
-matplotlib==3.9.1
-scikit-learn==1.8.0
-networkx==3.2.1
-openpyxl==3.1.2
-basemap==2.0.0

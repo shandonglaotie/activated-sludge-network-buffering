@@ -1,8 +1,0 @@
-{
-  "analysis_modules": [
-    "analysis/damage_six_dimensions.py"
-  ],
-  "submitted_asset": "assets/submitted_figure.tiff",
-  "aggregation": "Mean AUC effect across the four conditions",
-  "link_rule": "Absolute mean effect >= 60th percentile across the 24 mechanism-dimension cells"
-}

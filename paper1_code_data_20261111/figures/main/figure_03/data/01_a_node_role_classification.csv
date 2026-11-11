@@ -1,4 +1,0 @@
-Role,Within-community criterion,Additional criterion
-Provincial hub,z > 0,P < 0.30
-Connector hub,z > 0,0.30 <= P < 0.75
-Dominant hub,Candidate hub,Taxon mean relative abundance >= 0.40%

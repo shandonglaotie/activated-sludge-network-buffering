@@ -1,8 +1,0 @@
-{
-  "analysis_modules": [
-    "analysis/community_partition.py",
-    "analysis/roles_and_resampling.py",
-    "analysis/community_metrics.py"
-  ],
-  "submitted_asset": "assets/submitted_figure.tiff"
-}
