@@ -1,0 +1,13 @@
+{
+  "analysis_modules": [
+    "analysis/community_partition.py",
+    "analysis/roles_and_resampling.py",
+    "analysis/natural_connectivity.py"
+  ],
+  "submitted_asset": "assets/submitted_figure.tiff",
+  "natural_connectivity_repeats": 20,
+  "random_seed": "20260726 + replicate",
+  "deletion_step": 3,
+  "maximum_deleted_nodes": 73,
+  "taxon_panel_rule": "At least one hub and at least two ASVs; top 45 by hub count and ASV count; Unknown last"
+}

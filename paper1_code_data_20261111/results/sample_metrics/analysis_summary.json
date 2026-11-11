@@ -1,0 +1,24 @@
+{
+  "sites": 252,
+  "samples": 1186,
+  "strict_coordinate_sites": 223,
+  "latitude_rescue_sites": 29,
+  "network_nodes": 456,
+  "network_edges": 13894,
+  "connector_candidates_PC_gt_0.62": 8,
+  "selected_knn_k": {
+    "EffCOD": 15,
+    "EffNH4N": 5,
+    "EffTN": 9,
+    "EffTP": 9
+  },
+  "observed_effluent_sites": {
+    "EffCOD": 133,
+    "EffNH4N": 163,
+    "EffTN": 106,
+    "EffTP": 142
+  },
+  "analysis_scope": "activated-sludge microbial network stability; no community-level removal-function claims",
+  "primary_outcome_policy": "observed effluent values; KNN values sensitivity-only",
+  "removal_policy": "paired water-table inflow/effluent only; never AtInf-to-Eff removal"
+}

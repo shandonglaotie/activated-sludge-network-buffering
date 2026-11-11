@@ -1,0 +1,37 @@
+[
+  {
+    "file": "data/01_a_node_role_classification.csv",
+    "panel": "a Node-role classification",
+    "rows": 3
+  },
+  {
+    "file": "data/02_b_node_coordinates_and_roles.csv",
+    "panel": "b Node coordinates and roles",
+    "rows": 456
+  },
+  {
+    "file": "data/03_c_node_role_composition_by_community_percent.csv",
+    "panel": "c Node-role composition by community (%)",
+    "rows": 8
+  },
+  {
+    "file": "data/04_d_node_role_composition_by_taxon_percent.csv",
+    "panel": "d Node-role composition by taxon (%)",
+    "rows": 188
+  },
+  {
+    "file": "data/05_e_selected_taxa.csv",
+    "panel": "e Selected taxa",
+    "rows": 122
+  },
+  {
+    "file": "data/06_f_natural_connectivity_after_node_removal.csv",
+    "panel": "f Natural connectivity after node removal",
+    "rows": 78
+  },
+  {
+    "file": "data/07_f_individual_node_removal_replicates.csv",
+    "panel": "f Individual node-removal replicates",
+    "rows": 1560
+  }
+]

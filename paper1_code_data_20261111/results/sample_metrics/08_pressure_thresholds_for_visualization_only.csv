@@ -1,0 +1,6 @@
+﻿variable,Q20,Q80,rule
+MIT,20.0,28.0,site-level empirical 20th/80th percentiles; continuous variable remains primary
+AtInfCOD,267.0,643.0,site-level empirical 20th/80th percentiles; continuous variable remains primary
+AtInfNH4N,17.5,40.9,site-level empirical 20th/80th percentiles; continuous variable remains primary
+AtInfTN,25.0,57.0,site-level empirical 20th/80th percentiles; continuous variable remains primary
+AtInfTP,2.0,6.6,site-level empirical 20th/80th percentiles; continuous variable remains primary

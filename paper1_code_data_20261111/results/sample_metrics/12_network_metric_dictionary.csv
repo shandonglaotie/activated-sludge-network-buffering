@@ -1,0 +1,13 @@
+﻿metric,calculation_without_formula,interpretation
+Active_ASVs_456,Number of the 456 structural-core ASVs detected with count > 0 in the activated-sludge sample,realized diversity/context; not whole-plant richness
+Edge_realization_rate,"Fraction of the 13,894 full-network edges whose two endpoint ASVs are both detected in the sample",sample-specific realization of the global structural network
+Mean_realized_edge_weight,Mean absolute RMT association weight among realized edges,strength of realized associations; descriptive
+Intercommunity_edge_fraction,Realized edges connecting different C01-C08 communities divided by all realized edges,structural integration between communities
+Abundance_weighted_intercommunity_support,Intercommunity edge support divided by total support; each edge weighted by absolute RMT weight and geometric mean endpoint abundance,abundance-aware structural integration
+Community_coverage,Number of C01-C08 communities represented by at least one detected ASV,breadth of structural community representation
+Community_abundance_evenness,Effective Shannon number of community abundance divided by eight,balance among structural communities
+Community_abundance_dominance,Largest community relative abundance in the sample,concentration/dependence on one community
+Largest_component_fraction,ASVs in the largest connected component divided by detected structural ASVs,global connectivity of the realized network
+Fragmentation_1_minus_LCC,One minus largest-component fraction,realized network fragmentation
+Connector_presence_fraction,Detected full-network connector candidates divided by all connector candidates; candidates use participation coefficient > 0.62,retention of potential cross-community bridge ASVs; candidate definition only
+Connector_relative_abundance,Total relative abundance of connector-candidate ASVs,abundance support for potential bridges

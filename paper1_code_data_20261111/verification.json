@@ -1,0 +1,84 @@
+{
+  "checks": {
+    "standard_damage": {
+      "rows": 117600,
+      "status": "passed"
+    },
+    "standard_damage_summary": {
+      "rows": 28,
+      "status": "passed"
+    },
+    "high_load_damage": {
+      "rows": 117600,
+      "status": "passed"
+    },
+    "01_pilot_replicate_curves.csv": {
+      "rows": 120960,
+      "status": "passed"
+    },
+    "03_pilot_six_dimension_effect_vectors_by_replicate.csv": {
+      "rows": 2880,
+      "status": "passed"
+    },
+    "04_pilot_effect_summary.csv": {
+      "rows": 96,
+      "status": "passed"
+    },
+    "swi_weights": {
+      "rows": 4,
+      "status": "passed"
+    },
+    "swi_plant_scores": {
+      "rows": 252,
+      "status": "passed"
+    },
+    "09_directional_percentile_cv_runs.csv": {
+      "rows": 800,
+      "status": "passed"
+    },
+    "10_directional_percentile_summary.csv": {
+      "rows": 4,
+      "status": "passed"
+    },
+    "plant_metrics_and_pca": {
+      "rows": 252,
+      "status": "passed"
+    },
+    "community_permutations": {
+      "permutations": 5000,
+      "communities": 8,
+      "statistics": 3,
+      "status": "passed"
+    },
+    "community_partition": {
+      "nodes": 1093,
+      "core_nodes": 456,
+      "status": "passed"
+    },
+    "natural_connectivity": {
+      "rows": 1560,
+      "max_absolute_error": 6.110667527536862e-13,
+      "status": "passed"
+    },
+    "observed_fingerprints": {
+      "rows": 54,
+      "status": "passed"
+    },
+    "global_structural_states": {
+      "plants": 223,
+      "status": "passed"
+    }
+  },
+  "wsbm_model_input": {
+    "nodes": 281,
+    "identifier_type": "sequencing_run",
+    "archived_fit_rows": 80,
+    "all_80_model_refits_verified": false
+  },
+  "network_edge_counts": {
+    "sample_metric_graph": 13894,
+    "figure_graph": 13875,
+    "negative_correlations_in_sample_metric_graph": 19,
+    "self_loops": 0
+  }
+}

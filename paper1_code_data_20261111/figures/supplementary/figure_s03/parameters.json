@@ -1,0 +1,10 @@
+{
+  "analysis_modules": [
+    "analysis/community_permutations.py"
+  ],
+  "submitted_asset": "assets/submitted_figure.tiff",
+  "permutations": 5000,
+  "seed": 20260716,
+  "peripheral_position_index": "100 / (2 - raw_periphery / 100)",
+  "histogram_bins": 22
+}

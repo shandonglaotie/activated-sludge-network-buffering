@@ -1,0 +1,17 @@
+[
+  {
+    "file": "data/01_community_number_selection.csv",
+    "panel": "Community-number selection",
+    "rows": 80
+  },
+  {
+    "file": "data/saturation_curve.csv",
+    "panel": "Saturation fit and bootstrap interval",
+    "rows": 500
+  },
+  {
+    "file": "data/saturation_markers.csv",
+    "panel": "Observed means and fitted markers",
+    "rows": 16
+  }
+]

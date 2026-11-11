@@ -1,0 +1,2 @@
+﻿method,n_null_values,mean,sd,median,observed_median_NMI,shapiro_W,shapiro_p,normality_claim_allowed,note
+50pct label perturbation preserving global community sizes,1000,0.26998862646048866,0.011530801703317725,0.2699801409290661,0.5765831723601939,0.9990039533036265,0.8751942460478351,True,"This is a label-perturbation sensitivity null, not a degree-preserving network null."

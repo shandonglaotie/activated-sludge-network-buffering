@@ -1,0 +1,41 @@
+{
+  "status": "simulation_complete_stop_after_requested_repeats",
+  "repeats": 30,
+  "x_points": 21,
+  "pressures": [
+    "Low C/N ratio",
+    "Low C/P ratio",
+    "Low temperature",
+    "High industrial proportion"
+  ],
+  "mechanisms": [
+    "bridge",
+    "assortative",
+    "core_periphery",
+    "abundance"
+  ],
+  "dimensions": [
+    "E",
+    "F",
+    "C",
+    "S",
+    "V",
+    "D"
+  ],
+  "bridge_V_D_policy": "numeric zero, explicitly tagged zero_by_design",
+  "bridge_matching": "repeat-specific realized edges; community-pair x weight-bin x degree-sum-bin with audited fixed relaxation tiers",
+  "bridge_global_fallback_allowed": true,
+  "assortative_matching": "common-support trimming; same community hard constraint; continuous nearest match on internal degree and baseline abundance plus fixed 0.25 broad-role penalty; without replacement; no cross-community/global fallback",
+  "assortative_priority": "pressure sensitivity jointly weighted by within-community structural contribution; no pressure-specific post-hoc tuning",
+  "node_abundance_policy": "deleted node abundance set to zero; remaining abundance renormalized",
+  "abundance_activity_threshold": ">0 after community-level redistribution and ASV proportional scaling",
+  "primary_effect": "trapezoidal AUC of targeted loss minus matched-control loss over x=0..1",
+  "expanded_target_pool": false,
+  "sensitivity": [
+    "x=0.5",
+    "x=1.0"
+  ],
+  "elapsed_seconds": 53.113557200002106,
+  "raw_rows": 120960,
+  "effect_rows": 2880
+}

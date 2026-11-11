@@ -1,0 +1,82 @@
+[
+  {
+    "figure": "1",
+    "directory": "figures/main/figure_01",
+    "source_tables": 2
+  },
+  {
+    "figure": "2",
+    "directory": "figures/main/figure_02",
+    "source_tables": 4
+  },
+  {
+    "figure": "3",
+    "directory": "figures/main/figure_03",
+    "source_tables": 7
+  },
+  {
+    "figure": "4",
+    "directory": "figures/main/figure_04",
+    "source_tables": 5
+  },
+  {
+    "figure": "5",
+    "directory": "figures/main/figure_05",
+    "source_tables": 4
+  },
+  {
+    "figure": "S1",
+    "directory": "figures/supplementary/figure_s01",
+    "source_tables": 3
+  },
+  {
+    "figure": "S2",
+    "directory": "figures/supplementary/figure_s02",
+    "source_tables": 1
+  },
+  {
+    "figure": "S3",
+    "directory": "figures/supplementary/figure_s03",
+    "source_tables": 6
+  },
+  {
+    "figure": "S4",
+    "directory": "figures/supplementary/figure_s04",
+    "source_tables": 4
+  },
+  {
+    "figure": "S5",
+    "directory": "figures/supplementary/figure_s05",
+    "source_tables": 1
+  },
+  {
+    "figure": "S6",
+    "directory": "figures/supplementary/figure_s06",
+    "source_tables": 6
+  },
+  {
+    "figure": "S7",
+    "directory": "figures/supplementary/figure_s07",
+    "source_tables": 1
+  },
+  {
+    "figure": "S8",
+    "directory": "figures/supplementary/figure_s08",
+    "source_tables": 1
+  },
+  {
+    "figure": "S9",
+    "directory": "figures/supplementary/figure_s09",
+    "source_tables": 2
+  },
+  {
+    "figure": "S10",
+    "directory": "figures/supplementary/figure_s10",
+    "source_tables": 1
+  },
+  {
+    "figure": "S11",
+    "directory": "figures/supplementary/figure_s11",
+    "source_tables": 1
+  }
+]

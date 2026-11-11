@@ -1,0 +1,9 @@
+﻿pressure,variable,group_definition,operator,cutoff,notes,eligible_n_strict_evaluation_set,tie_rule,n_exposed_strict_223
+Low temperature,MIT,lowest 20%,<=,19.4,Exact lowest 20% of the strict 223 evaluation set,223,Site_ID ascending at duplicated boundary,45
+High COD,AtInfCOD,highest 20%,>=,643.0,Exact highest 20% of the strict 223 evaluation set,223,Site_ID ascending at duplicated boundary,45
+High NH4-N,AtInfNH4N,highest 20% in coherent N subset,>=,34.0,Exact 20%; restricted to 0 ≤ NH4-N ≤ TN,186,Site_ID ascending at duplicated boundary,37
+High TN,Joint_N_rank,highest 20% joint N rank,>=,0.8019323671497585,Exact 20%; mean percentile rank of TN and NH4-N in coherent N subset,186,Site_ID ascending at duplicated boundary,37
+High TP,AtInfTP,highest 20%,>=,8.0,Exact highest 20% of the strict 223 evaluation set,223,Site_ID ascending at duplicated boundary,45
+High industrial proportion,Industrial_pct,highest 20% among positive industrial proportions,>=,40.0,Exact 20%; first restrict to Industrial_pct > 0,80,Site_ID ascending at duplicated boundary,16
+Low C/N ratio,C_N_ratio,lowest 20%,<=,7.298701298701299,Exact lowest 20% of the strict 223 evaluation set,223,Site_ID ascending at duplicated boundary,45
+Low C/P ratio,C_P_ratio,lowest 20%,<=,56.47058823529412,Exact lowest 20% of the strict 223 evaluation set,223,Site_ID ascending at duplicated boundary,45

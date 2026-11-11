@@ -1,0 +1,20 @@
+{
+  "analysis_modules": [
+    "analysis/wsbm_curve.py"
+  ],
+  "submitted_asset": "assets/submitted_figure.tiff",
+  "model_input": "data/wsbm_input_signed_adjacency.mat",
+  "node_identifiers": "data/wsbm_input_node_ids.csv",
+  "model_runner": "analysis/matlab/run_wsbm.m",
+  "fits_per_k": 5,
+  "k_range": [
+    5,
+    20
+  ],
+  "curve_fit": "plateau - amplitude * exp(-rate * (k - 5))",
+  "bootstrap_repeats": 2000,
+  "bootstrap_seed": 20260826,
+  "markers": "fitted curve values at integer k",
+  "node_identifier_type": "sequencing_run",
+  "all_80_model_refits_verified": false
+}

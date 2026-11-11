@@ -1,0 +1,7 @@
+[
+  {
+    "file": "data/01_cross_validated_auc.csv",
+    "panel": "Cross-validated AUC",
+    "rows": 4
+  }
+]

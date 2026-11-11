@@ -1,0 +1,24 @@
+{
+  "analysis_modules": [
+    "analysis/sample_metrics.py",
+    "analysis/plant_metrics.py",
+    "analysis/observed_fingerprints.py",
+    "analysis/damage_standard_retention.py",
+    "analysis/summarize_standard_damage.py",
+    "analysis/damage_six_dimensions.py"
+  ],
+  "submitted_asset": "assets/submitted_figure.tiff",
+  "panel_a_groups": {
+    "Low temperature": "MIT < 18 versus 18 <= MIT < 22",
+    "Low C/N ratio": "C/N <= all-plant Q20 versus > Q20",
+    "Low C/P ratio": "C/P <= all-plant Q20 versus > Q20",
+    "High industrial proportion": "Industrial proportion >= positive-plant Q80 versus zero"
+  },
+  "panel_b_c_d_group_table": "shared/damage_standard/latest_sample_pressure_groups.csv",
+  "panel_d_metrics": [
+    "bridge_direct",
+    "within_direct",
+    "cp_direct",
+    "dominance"
+  ]
+}

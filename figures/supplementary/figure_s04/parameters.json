@@ -1,0 +1,8 @@
+{
+  "analysis_modules": [
+    "analysis/partition_stability.py",
+    "analysis/block_profile_stability.py",
+    "analysis/roles_and_resampling.py"
+  ],
+  "submitted_asset": "assets/submitted_figure.tiff"
+}

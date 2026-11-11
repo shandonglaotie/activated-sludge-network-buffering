@@ -1,0 +1,2 @@
+input_mode,n_nodes,n_nonzero_edges_undirected,n_positive_edges,n_negative_edges,min_weight,max_weight,mean_abs_weight
+abundance,281,39340,11335,28005,-0.0616760550662522,0.992696867733271,0.0160537385721759

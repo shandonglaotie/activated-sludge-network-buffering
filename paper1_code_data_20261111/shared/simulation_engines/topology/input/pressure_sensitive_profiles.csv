@@ -1,0 +1,43 @@
+pressure,feature,weight,scientific_role
+High TN,Denitrifiers,3.0,TN removal / denitrification
+High TN,Nitrifiers,2.5,TN oxidation-related support
+High TN,DNRA,2.0,Nitrogen transformation
+High TN,connector,1.4,Cross-community bridging
+High TN,dominant,0.8,High-abundance/topological role
+High TN,betweenness,1.1,Bridge centrality
+High NH4-N,Nitrifiers,4.0,Ammonium oxidation sensitivity
+High NH4-N,Denitrifiers,0.8,Downstream nitrogen removal support
+High NH4-N,connector,1.2,Cross-community bridging
+High NH4-N,dominant,0.6,High-abundance/topological role
+High NH4-N,betweenness,0.9,Bridge centrality
+High TP,PAOs,4.0,Phosphorus-accumulating organisms
+High TP,GAOs,2.5,Competing carbon/phosphorus guild
+High TP,connector,1.2,Cross-community bridging
+High TP,betweenness,0.8,Bridge centrality
+High COD,Fermenter,2.5,Organic matter fermentation
+High COD,Sugars,1.6,Sugar degradation
+High COD,Lipids,1.3,Lipid degradation
+High COD,Proteins,1.3,Protein degradation
+High COD,Acetogen,1.0,Acetogenic metabolism
+High COD,connector,0.9,Cross-community bridging
+High COD,betweenness,0.6,Bridge centrality
+Low C/N ratio,Denitrifiers,3.0,Carbon-limited denitrification
+Low C/N ratio,Fermenter,1.8,Carbon-source processing
+Low C/N ratio,Sugars,1.1,Carbon-source processing
+Low C/N ratio,Proteins,1.1,Carbon-source processing
+Low C/N ratio,connector,1.2,Cross-community bridging
+Low C/N ratio,betweenness,0.8,Bridge centrality
+Low C/P ratio,PAOs,3.5,Phosphorus accumulation
+Low C/P ratio,GAOs,2.2,Carbon competition with PAOs
+Low C/P ratio,connector,1.1,Cross-community bridging
+Low C/P ratio,betweenness,0.6,Bridge centrality
+Low temperature,Nitrifiers,2.5,Temperature-sensitive nitrification
+Low temperature,PAOs,1.2,Temperature-sensitive phosphorus guild
+Low temperature,connector,1.6,Cross-community bridging
+Low temperature,dominant,0.8,High-abundance/topological role
+Low temperature,betweenness,1.4,Bridge centrality
+High industrial proportion,SRB,2.0,Industrial-wastewater-sensitive sulfur guild
+High industrial proportion,Filamentous,1.7,Filamentous response
+High industrial proportion,Fermenter,1.5,Organic/industrial substrate processing
+High industrial proportion,connector,1.8,Cross-community bridging
+High industrial proportion,betweenness,1.2,Bridge centrality
